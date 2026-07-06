@@ -1,16 +1,31 @@
-# React + Vite
+# Abdul Basit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Python & AI Developer · Gen AI Educator**
 
-Currently, two official plugins are available:
+📍 Peshawar, Pakistan
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🧑‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a **Python Developer** and **AI Educator** teaching the next generation of developers about Gen AI, Agentic AI, AI tools, vibe coding, and Python development.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python · JavaScript · HTML · CSS |
+| **Frontend** | React · Tailwind CSS · Vite |
+| **Backend** | Node.js · Python |
+| **AI/LLM** | OpenAI · LangChain · CrewAI |
+| **Database** | Supabase · PostgreSQL |
+| **DevOps** | Vercel · GitHub Pages |
+
+---
+
+## 📬 Get In Touch
+
+- 🌍 **Based in:** Peshawar, Pakistan
+- - 🧠 **Teaching:** Gen AI · Agentic AI · AI Tools · Vibe Coding · Python
